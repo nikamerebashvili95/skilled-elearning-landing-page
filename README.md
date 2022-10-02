@@ -1,0 +1,52 @@
+# Frontend Mentor - Skilled e-learning landing page
+
+This is a solution to the [Skilled e-learning landing page on Frontend Mentor](https://www.frontendmentor.io/challenges/skilled-elearning-landing-page-S1ObDrZ8q). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+
+## Overview
+
+### Screenshot
+
+![](./images/skilled-learning.png)
+
+
+
+### Links
+
+- Solution URL: [Solution](https://github.com/nikamerebashvili95/skilled-elearning-landing-page)
+- Live Site URL: [GitHub Live URL](https://nikamerebashvili95.github.io/skilled-elearning-landing-page/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+- Tablet workflow
+- Responsive
+
+
+
+## Author
+
+- GitHub - [Nika Merebashvili](https://github.com/nikamerebashvili95)
+
+
+## Acknowledgments
+
+special thanks goes to Otar Zakalshvili, for the opportunity to learn web development
+
+- Oto Zakalashvili: [Linkedin](https://www.linkedin.com/in/otarza/)
+- BitCamp: [BitCamp](https://www.facebook.com/groups/bitcamp.ge/permalink/8389844074389186/)
