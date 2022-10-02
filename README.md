@@ -17,7 +17,7 @@ This is a solution to the [Skilled e-learning landing page on Frontend Mentor](h
 
 ### Screenshot
 
-![](./images/skilled-learning.png)
+![](./images/skilled-learning.jpg)
 
 
 
